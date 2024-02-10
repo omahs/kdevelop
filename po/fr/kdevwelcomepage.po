@@ -83,7 +83,7 @@ msgstr ""
 "application ou la déboguer si vous avez besoin d'informations "
 "supplémentaires au moment de l'exécution. Il est possible de sélectionner ce "
 "qui est sur le point de s'exécuter en configurant les lanceurs et en "
-"sélectionnant celui de votre choix dans le le sous-menu <em>Configuration de "
+"sélectionnant celui de votre choix dans le sous-menu <em>Configuration de "
 "lancement actuelle</em>."
 
 #: qml/area_review.qml:38
